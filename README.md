@@ -1,2 +1,2 @@
 # 105videos
-Watch all 105 videos in few seconds
+Watch all PHYS105 videos in few seconds
